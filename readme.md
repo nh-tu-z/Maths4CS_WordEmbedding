@@ -1,5 +1,7 @@
 # Word Embedding
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HVZ8HdbWUc92zANLHpe73k9LFKcFgvbx?usp=sharing#scrollTo=zqBbs8Nxi0rZ)
+
 ## Instructor
 PhD. Nguyễn An Khương
 
@@ -8,8 +10,6 @@ PhD. Nguyễn An Khương
 - Nguyễn Hoàng Kiên - 2570435
 - Trần Quốc Việt - 2570154
 - Huỳnh Đức Nhâm - 2570276
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HVZ8HdbWUc92zANLHpe73k9LFKcFgvbx?usp=sharing#scrollTo=zqBbs8Nxi0rZ)
 
 ## About
 
