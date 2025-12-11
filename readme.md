@@ -9,8 +9,7 @@ PhD. Nguyễn An Khương
 - Trần Quốc Việt - 2570154
 - Huỳnh Đức Nhâm - 2570276
 
-## Colab: 
-- [link](https://colab.research.google.com/drive/1HVZ8HdbWUc92zANLHpe73k9LFKcFgvbx?usp=sharing#scrollTo=zqBbs8Nxi0rZ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HVZ8HdbWUc92zANLHpe73k9LFKcFgvbx?usp=sharing#scrollTo=zqBbs8Nxi0rZ)
 
 ## About
 
