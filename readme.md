@@ -37,3 +37,4 @@ What you’ll find in the notebooks
 
 Reference
 - Dive into Deep Learning (d2l) — Natural Language Processing: Pretraining: https://d2l.ai/chapter_natural-language-processing-pretraining/index.html
+- For presentation video, please refer to this link: https://drive.google.com/file/d/1qAj6pJLVOOwslicdetY4fBkjh9w7BhHy/view?usp=sharing
